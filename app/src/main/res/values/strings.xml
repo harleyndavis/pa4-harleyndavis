@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Grade Calculator</string>
+    <string name="desired_grade">Desired Grade</string>
+    <string name="character_letter_grade_here">character letter grade here</string>
+</resources>
